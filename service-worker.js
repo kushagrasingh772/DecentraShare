@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DecentraShare/precache-manifest.f70f86131d816a19787c5aae7b01d432.js"
+  "/DecentraShare/precache-manifest.e50d19ecfe42ddfd323c2a62c4a9367f.js"
 );
 
 self.addEventListener('message', (event) => {

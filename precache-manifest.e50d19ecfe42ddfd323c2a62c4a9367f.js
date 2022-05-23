@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1a67f1e77aac66ff10a31f1df4e8c45",
+    "revision": "a97cd67e4887c529959da264898d523f",
     "url": "/DecentraShare/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DecentraShare/static/css/2.5dcc52c6.chunk.css"
   },
   {
-    "revision": "1eccbe6f72e18ad26f6d",
+    "revision": "f6fe923d8f6cb384dfb9",
     "url": "/DecentraShare/static/css/main.e83d913d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DecentraShare/static/js/2.2e37fbca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1eccbe6f72e18ad26f6d",
-    "url": "/DecentraShare/static/js/main.d3582a5a.chunk.js"
+    "revision": "f6fe923d8f6cb384dfb9",
+    "url": "/DecentraShare/static/js/main.26e15cb7.chunk.js"
   },
   {
     "revision": "d90ff555810abf8ced6b",
