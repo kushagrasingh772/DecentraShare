@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/DecentraShare/static/css/main.e83d913d.chunk.css",
+    "main.js": "/DecentraShare/static/js/main.d3582a5a.chunk.js",
+    "main.js.map": "/DecentraShare/static/js/main.d3582a5a.chunk.js.map",
+    "runtime-main.js": "/DecentraShare/static/js/runtime-main.a29db401.js",
+    "runtime-main.js.map": "/DecentraShare/static/js/runtime-main.a29db401.js.map",
+    "static/css/2.5dcc52c6.chunk.css": "/DecentraShare/static/css/2.5dcc52c6.chunk.css",
+    "static/js/2.2e37fbca.chunk.js": "/DecentraShare/static/js/2.2e37fbca.chunk.js",
+    "static/js/2.2e37fbca.chunk.js.map": "/DecentraShare/static/js/2.2e37fbca.chunk.js.map",
+    "index.html": "/DecentraShare/index.html",
+    "precache-manifest.f70f86131d816a19787c5aae7b01d432.js": "/DecentraShare/precache-manifest.f70f86131d816a19787c5aae7b01d432.js",
+    "service-worker.js": "/DecentraShare/service-worker.js",
+    "static/css/2.5dcc52c6.chunk.css.map": "/DecentraShare/static/css/2.5dcc52c6.chunk.css.map",
+    "static/css/main.e83d913d.chunk.css.map": "/DecentraShare/static/css/main.e83d913d.chunk.css.map",
+    "static/js/2.2e37fbca.chunk.js.LICENSE.txt": "/DecentraShare/static/js/2.2e37fbca.chunk.js.LICENSE.txt",
+    "static/media/photo.png": "/DecentraShare/static/media/photo.d6cbd8e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a29db401.js",
+    "static/css/2.5dcc52c6.chunk.css",
+    "static/js/2.2e37fbca.chunk.js",
+    "static/css/main.e83d913d.chunk.css",
+    "static/js/main.d3582a5a.chunk.js"
+  ]
+}
