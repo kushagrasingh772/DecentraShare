@@ -22,7 +22,7 @@ Social media is notorious for its algorithms and one of the biggest problem with
 
  ![Shape1](RackMultipart20220621-1-qjtzxj_html_d3dfebf0caf3fa8f.gif)
 
-**ETHEREUM :-**
+**ETHEREUM :-
 
 ![](RackMultipart20220621-1-qjtzxj_html_383b22c2091cfc9.png)
 
@@ -30,7 +30,7 @@ Social media is notorious for its algorithms and one of the biggest problem with
 
 Ethereum was conceived in 2013 by programmer [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin). Additional founders of Ethereum included [Gavin Wood](https://en.wikipedia.org/wiki/Gavin_Wood), [Charles Hoskinson](https://en.wikipedia.org/wiki/Charles_Hoskinson), [Anthony Di Iorio](https://en.wikipedia.org/wiki/Anthony_Di_Iorio) and [Joseph Lubin](https://en.wikipedia.org/wiki/Joseph_Lubin_(entrepreneur)). In 2014, [crowdfunded](https://en.wikipedia.org/wiki/Crowdfunding) development work began; went live on 30 July 2015. Ethereum allows anyone to deploy permanent and immutable [decentralized applications](https://en.wikipedia.org/wiki/Decentralized_application) onto it, with which users can interact.
 
-**SOLIDITY :-**
+**SOLIDITY :-
 
 ![](RackMultipart20220621-1-qjtzxj_html_10b4883282d8292d.jpg)
 
@@ -44,7 +44,7 @@ With Solidity you can create contracts for uses such as voting, crowdfunding, bl
 
 When deploying contracts, you should use the latest released version of Solidity. Apart from exceptional cases, only the latest version receives [security fixes](https://github.com/ethereum/solidity/security/policy#supported-versions). Furthermore, breaking changes as well as new features are introduced regularly. We currently use a 0.y.z version number [to indicate this fast pace of change](https://semver.org/#spec-item-4).
 
-**TRUFFLE**  **:-**
+**TRUFFLE**:
 
 ![](RackMultipart20220621-1-qjtzxj_html_2c0ed23266dd328.jpg)
 
@@ -62,7 +62,7 @@ Truffle manages your artifacts, allowing you to focus on other things.
 
 Truffle has an interactive console where you can access all your Truffle commands and contracts.
 
-**GANACHE**  **:-**
+**GANACHE**:
 
 ![](RackMultipart20220621-1-qjtzxj_html_1f15ffebe46b2022.jpg)
 
@@ -76,7 +76,7 @@ Uploading contracts to an authoritative chain like Ethereum mainnet costs gas. T
 
 We don&#39;t want our dApps to be slow. So, by creating a local blockchain using Ganache, we can instantaneously install smart contracts. This implies Ganache can save us time and money, which is quite valuable when starting a firm.
 
-**REMIX IDE**** :-**
+**REMIX IDE***:
 
 ![](RackMultipart20220621-1-qjtzxj_html_96c1237eb6301159.jpg)
 
@@ -86,7 +86,7 @@ In short, if you&#39;re looking for an answer to &quot;what is Remix&quot;, you&
 
 This information will help you decide whether or not it&#39;s the proper tool you should take advantage of. On top of that, we&#39;ll tell you about an amazing platform that enables you to skip time-consuming backend coding and still deploy excellent [dApps](https://moralis.io/decentralized-applications-explained-what-are-dapps/?utm_source=blog&amp;utm_medium=post&amp;utm_campaign=Remix%2520Explained%2520%25E2%2580%2593%2520What%2520is%2520Remix%253F).
 
-**METAMASK**** :-**
+**METAMASK****:
 
 ![](RackMultipart20220621-1-qjtzxj_html_f9065fec128af9a8.jpg)
 
@@ -96,7 +96,7 @@ MetaMask generates passwords and keys on your device, so only you have access to
 
 MetaMask provides an essential utility for blockchain newcomers, token traders, crypto gamers, and developers.
 
-**REACT.JS**** :-**
+**REACT.JS**** :
 
 ![](RackMultipart20220621-1-qjtzxj_html_c11aae25bd305ed3.jpg)
 
@@ -141,41 +141,32 @@ In centralized storages, you can only get data from their servers, and the speed
     - Declaring our variables used imageCount(to count images),struct Image to store details of image
     - Declaring events to identify for testing and deployment purpose
 
-![](RackMultipart20220621-1-qjtzxj_html_7d9ab5f2b0354d20.png)
 
-    - Function to upload image
 
-![](RackMultipart20220621-1-qjtzxj_html_96bf2980130c908c.png)
+      
 
-      - Function to tip image owner
 
-![](RackMultipart20220621-1-qjtzxj_html_a7a16f025ef5c2e7.png)
 
   - Testing using test.js
     - Check for deployment
     - Check for uploadImage functiom
 
-![](RackMultipart20220621-1-qjtzxj_html_99b76762ce5642e3.png)
+
 
 - Check events are working properly
 - Check working of image list
 
-![](RackMultipart20220621-1-qjtzxj_html_e473f606e83889fd.png)
+
 
 - Check for working of tip function.
 
-![](RackMultipart20220621-1-qjtzxj_html_a771cc4520597471.png)
 
 - Setting Web3.js, Contract Instance and IPFS
 - Getting Users Account
 - Posting data in IPFS
 - Fetching data from IPFS
 
-![](RackMultipart20220621-1-qjtzxj_html_22cab6e7f8b0ae18.png)
 
-    - Integrating front-end and creating react components
-
-![](RackMultipart20220621-1-qjtzxj_html_11a02f58202bfc0a.png)
 
 # **References**
 
