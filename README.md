@@ -1,8 +1,11 @@
-# DecentraShare
+<!-- PROJECT NAME -->
+<div align="center">
+  <h1 align="center">Decentra Share</h1>
+  <p align="center">
+    <a href="https://kushagrasingh772.github.io/DecentraShare/">View Demo</a>
+  </p>
+</div>
 
-# DEMO:
-
-https://kushagrasingh772.github.io/DecentraShare/
 
 # **Abstract**
 
